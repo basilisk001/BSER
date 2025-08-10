@@ -1,5 +1,3 @@
-import { createClient } from 'https://esm.sh/@supabase/supabase-js@2'
-
 Deno.serve(async (req) => {
     const corsHeaders = {
         'Access-Control-Allow-Origin': '*',
@@ -14,21 +12,6 @@ Deno.serve(async (req) => {
     }
 
     try {
-        // Initialize the Supabase client.
-        // It's safe to use environment variables here, as they are securely
-        // stored by Supabase and not exposed to the client.
-        const supabaseClient = createClient(
-          Deno.env.get('SUPABASE_URL')!,
-          Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!,
-          {
-            // These options are required for server-side (Deno) environments.
-            auth: {
-              persistSession: false,
-              autoRefreshToken: false,
-            },
-          }
-        )
-
         // Extract parameters from request body
         const requestData = await req.json();
         const { command, currentFiles, activeFile } = requestData;
@@ -36,15 +19,6 @@ Deno.serve(async (req) => {
         if (!command || !currentFiles || activeFile === undefined) {
             throw new Error('Missing required parameters: command, currentFiles, or activeFile');
         }
-
-        // Asynchronously log the invocation to the database without blocking the response.
-        supabaseClient.from('invocations').insert({
-            command: command,
-            active_file: activeFile,
-            files_context_char_count: JSON.stringify(currentFiles).length,
-        }).then(({ error }) => {
-            if (error) console.error('Error logging invocation:', error.message);
-        });
 
         // Get API keys from environment
         const openaiApiKey = Deno.env.get('OPENAI_API_KEY');
