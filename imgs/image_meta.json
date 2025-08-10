@@ -1,0 +1,470 @@
+[
+  {
+    "query": "Set of modern tech icons with neon glow effects for feature highlights",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/002/631/109/non_2x/cyberpunk-attributes-neon-light-icons-set-bionic-limb-science-fiction-futuristic-technology-cyborg-body-augmentation-signs-with-outer-glowing-effect-isolated-rgb-color-illustrations-vector.jpg",
+      "file_path": "/workspace/imgs/modern_futuristic_neon_tech_icons_set.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 49345,
+      "width": 980,
+      "height": 980,
+      "total_pixels": 960400,
+      "basic_score": 0.9211849407144952
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a clear set of modern technology icons with vibrant neon glow effects against a dark, futuristic background. The clarity is excellent, and there are no watermarks. The overall design, composition, and visual appeal are outstanding, making it highly suitable for feature highlights.",
+      "file_name": "modern_futuristic_neon_tech_icons_set.jpg",
+      "caption": "A collection of nine vibrant neon glow line art icons representing modern and futuristic technology, arranged in a grid on a dark purple background. The icons include a brain with integrated circuitry for AI, a holographic projection, a robotic hand, various cyborg or futuristic human heads, a sleek futuristic hover vehicle, a quadruped robot dog, and an eye with data analysis lines for biometrics or eye tracking. The distinct blue, pink, yellow, and purple hues create a striking luminous effect, perfect for digital interfaces or feature highlights.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Set of modern tech icons with neon glow effects for feature highlights",
+    "image_info": {
+      "url": "https://images.stockcake.com/public/d/c/a/dcac5a35-229f-4c5e-8d15-13f1212e3b21_large/futuristic-technology-icons-stockcake.jpg",
+      "file_path": "/workspace/imgs/modern_tech_icons_neon_glow_dark_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 42617,
+      "width": 408,
+      "height": 728,
+      "total_pixels": 297024,
+      "basic_score": 0.7875256696992323
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features a comprehensive set of modern technology icons with a distinct neon glow effect against a dark, blurred background. The icons are sharp and clear, and the overall composition is highly professional and visually engaging, making it ideal for feature highlights.",
+      "file_name": "modern_tech_icons_neon_glow_dark_background.jpg",
+      "caption": "A vibrant and abstract illustration featuring a grid-like arrangement of various modern technology-themed line icons, glowing with neon light effects against a dark, blurred background with soft bokeh lights. The icons, connected by thin lines, represent diverse concepts such as artificial intelligence (brain, robot head), cloud computing, data analysis (graphs, target), innovation (lightbulb), security (padlock), networking (globe, WiFi signal), and information management (documents, computer). The background subtly transitions from warm orange and red hues on the left to cool blue and purple tones on the right, enhancing the futuristic and digital aesthetic of the design.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Interface showing collaborative coding with multiple user cursors for collaboration demo",
+    "image_info": {
+      "url": "https://camo.githubusercontent.com/ca7888b06852f9632519b2916ec89735c1989d414894c347d887307cb5a0bc84/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3239363433322f313835303136312f37656463633136302d373663372d313165332d393631352d3636323565356161656263352e676966",
+      "file_path": "/workspace/imgs/collaborative_coding_interface_multiple_cursors.jpg",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 323257,
+      "width": 949,
+      "height": 403,
+      "total_pixels": 382447,
+      "basic_score": 0.7625842739697581
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt as it clearly displays a coding-like interface with two distinct cursors, strongly implying multiple users and collaborative editing. The clarity is excellent, making all text and elements easily readable. There are no watermarks or logos. The composition is clean and effectively showcases the concept of multiple cursors for collaboration.",
+      "file_name": "collaborative_coding_interface_multiple_cursors.jpg",
+      "caption": "A screenshot of a dark-themed code editor or text editor interface, demonstrating real-time collaboration with multiple cursors. Two distinct vertical cursors are visible: one blinking cursor after 'test' on line 1, and a static cursor within 'example' on line 2, indicating different users editing concurrently. The interface includes line numbers (1, 2, 3), a file tab labeled 'test', and a menu bar with options like 'Text 2', 'File', 'Edit', 'Selection', 'Find', 'View', 'Goto', 'Tools', and 'Project'. The text content on display includes 'test', 'example', and 'sup' on separate lines.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Interface showing collaborative coding with multiple user cursors for collaboration demo",
+    "image_info": {
+      "url": "https://prototypr-media.sfo2.digitaloceanspaces.com/strapi/f0dfffc1344e1193510533edad188d4c.png",
+      "file_path": "/workspace/imgs/collaborative_coding_multiple_cursors_interface_illustration.jpg",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 7803,
+      "width": 1200,
+      "height": 600,
+      "total_pixels": 720000,
+      "basic_score": 0.8723467966302809
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly illustrating the concept of 'multiple cursors' in an interface-like setting, strongly suggesting collaboration. The illustration style is clean, sharp, and free of watermarks, contributing to its high clarity and overall professional quality. It effectively conveys the core idea for a collaboration demo.",
+      "file_name": "collaborative_coding_multiple_cursors_interface_illustration.jpg",
+      "caption": "A clean, modern illustration featuring six distinct colorful computer cursors, each with a corresponding rectangular box that resembles a text input field or code block. The cursors and boxes are in shades of blue, green, pink, red, light blue, and yellow, set against a subtle light blue background. This visual metaphor effectively represents multiple users actively interacting within a collaborative coding or document editing interface.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Interface showing collaborative coding with multiple user cursors for collaboration demo",
+    "image_info": {
+      "url": "https://external-preview.redd.it/wnuj6CDg2HyfP9zMLV5FrRXKUI2MVhvz338Iaj22O7M.jpg?auto=webp&s=9215d44187abcd31be76d035979149730ea79664",
+      "file_path": "/workspace/imgs/multi_cursor_code_editing_interface_collaboration.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 53502,
+      "width": 1280,
+      "height": 675,
+      "total_pixels": 864000,
+      "basic_score": 0.9158470966989537
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt, explicitly showing 'Multi-cursor editing' within a coding interface. While it doesn't show multiple distinct users, the multi-cursor feature is a core component of collaborative coding demos. The image is clear, well-composed, and free of watermarks, making it an excellent visual representation of the concept.",
+      "file_name": "multi_cursor_code_editing_interface_collaboration.jpg",
+      "caption": "An animated introduction to multi-cursor editing in a dark-themed coding interface, featuring a JavaScript code snippet where multiple 'content' fields are highlighted with active cursors, demonstrating simultaneous editing, a key aspect of collaborative coding environments and demonstrations.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Interface showing collaborative coding with multiple user cursors for collaboration demo",
+    "image_info": {
+      "url": "https://mskelton.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fopengraph-image.6f66d465.png&w=3840&q=75",
+      "file_path": "/workspace/imgs/collaborative_coding_multiple_user_cursors_demo.jpg",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 4160,
+      "width": 1422,
+      "height": 800,
+      "total_pixels": 1137600,
+      "basic_score": 0.9107472398957884
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, clearly demonstrating the concept of 'multiple user cursors' in a 'collaborative' setting. The names associated with each cursor reinforce the idea of different participants. The image clarity is perfect, with sharp text and distinct elements. There are no watermarks or logos. The overall composition is clean, minimalist, and highly effective for showcasing a collaboration demo.",
+      "file_name": "collaborative_coding_multiple_user_cursors_demo.jpg",
+      "caption": "A minimalist, dark-themed digital interface showcasing real-time collaboration, indicated by three distinct colored cursors and associated user names: 'Jerrell Leannon' (red), 'Kole Barrows' (gold), and 'Eileen Vandervort' (purple). This visual represents a multi-user environment, typical of collaborative coding platforms or shared document editors, where multiple participants can interact simultaneously.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Abstract AI visualization with neural network patterns in dark theme for features section",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-photo/abstract-neural-network-concept-art-with-glowing-connections-nodes-dark-background_996993-28057.jpg",
+      "file_path": "/workspace/imgs/abstract_ai_neural_network_dark_visualization.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 87210,
+      "width": 626,
+      "height": 417,
+      "total_pixels": 261042,
+      "basic_score": 0.7793792845079033
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches both the search query and prompt, depicting an abstract neural network visualization in a dark theme with excellent clarity and no watermarks. The composition and glowing elements create a highly professional and engaging visual.",
+      "file_name": "abstract_ai_neural_network_dark_visualization.jpg",
+      "caption": "An abstract digital illustration representing an artificial intelligence neural network. The image features glowing interconnected lines and bright, luminous nodes in shades of vibrant teal and warm golden yellow, set against a dark, space-like background with subtle bokeh effects. The intricate, web-like structure evokes concepts of data flow, complex algorithms, and futuristic technology, ideal for symbolizing AI, machine learning, or interconnected systems.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Abstract AI visualization with neural network patterns in dark theme for features section",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/025/501/024/non_2x/abstract-polygonal-brain-on-dark-background-artificial-intelligence-concept-3d-rendering-information-technology-and-digital-data-visualization-network-system-ai-generated-free-photo.jpg",
+      "file_path": "/workspace/imgs/abstract_ai_neural_network_dark_visualization.jpg_a2",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 163991,
+      "width": 1715,
+      "height": 980,
+      "total_pixels": 1680700,
+      "basic_score": 0.8363958004656079
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting an abstract neural network visualization with a dark theme and glowing elements. It is exceptionally clear, high-resolution, and free of watermarks. The composition is professional and visually striking, making it highly suitable for a features section related to AI or technology.",
+      "file_name": "abstract_ai_neural_network_dark_visualization.jpg",
+      "caption": "An abstract digital rendering of a complex neural network or data structure, featuring interconnected glowing nodes and lines in a blend of vibrant red-orange and subtle blue hues against a deep, dark background. This visualization evokes concepts of artificial intelligence, machine learning, big data, deep learning, and advanced technological connections.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark, futuristic tech background with subtle neon accents for AI coding interface hero section",
+    "image_info": {
+      "url": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://media.easy-peasy.ai/244e32a0-95a3-4888-b63b-0b90a23ce003/21afe21c-41a5-421c-8b3a-a6478c14c948.png",
+      "file_path": "/workspace/imgs/futuristic_ai_coding_interface_tech_background_neon.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 165083,
+      "width": 700,
+      "height": 700,
+      "total_pixels": 490000,
+      "basic_score": 0.8612185441422999
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a dark, futuristic tech background with striking neon accents that strongly evoke an AI coding interface. The composition is highly professional, clear, and free of watermarks, making it ideal for a hero section.",
+      "file_name": "futuristic_ai_coding_interface_tech_background_neon.jpg",
+      "caption": "A detailed and dynamic digital art illustration showcasing a futuristic AI coding interface against a dark background. The scene is filled with intricate glowing blue, purple, and orange neon lines resembling circuit boards, abstract data visualizations, holographic screens displaying graphs and information, and interconnected geometric shapes like hexagons. A central glowing vortex emits streams of light, symbolizing data flow and advanced processing in a high-tech, cybernetic environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark, futuristic tech background with subtle neon accents for AI coding interface hero section",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-photo/abstract-glowing-coding-big-data-interface-dark-background-technology-futuristic-network-3d-rendering_670147-22979.jpg",
+      "file_path": "/workspace/imgs/dark_futuristic_ai_coding_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 97389,
+      "width": 626,
+      "height": 417,
+      "total_pixels": 261042,
+      "basic_score": 0.7808372245495034
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly aligns with the search query and prompt, depicting a dark, futuristic tech background with coding elements and subtle blue neon accents, ideal for an AI coding interface hero section. It is high resolution, clear, and has no visible watermarks, making it an excellent asset.",
+      "file_name": "dark_futuristic_ai_coding_background.jpg",
+      "caption": "An abstract, futuristic dark background featuring glowing blue lines resembling network connections and scattered blocks of light blue code or data, creating a sense of a complex digital interface or artificial intelligence environment. The perspective suggests depth, with elements appearing to recede into the distance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark, futuristic tech background with subtle neon accents for AI coding interface hero section",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/005/922/920/non_2x/abstract-technology-ai-interface-computing-concept-working-data-of-artificial-intelligence-and-futuristic-digital-for-future-on-dark-blue-background-vector.jpg",
+      "file_path": "/workspace/imgs/ai_futuristic_tech_interface_hero_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 111831,
+      "width": 1715,
+      "height": 980,
+      "total_pixels": 1680700,
+      "basic_score": 0.8318093072459333
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features a dark, futuristic tech background with prominent AI elements and a layout suitable for a hero section. The subtle neon blue accents enhance the modern interface feel. Image clarity is excellent, and there are no watermarks.",
+      "file_name": "ai_futuristic_tech_interface_hero_background.jpg",
+      "caption": "A futuristic digital illustration featuring a dark blue background with glowing light blue holographic elements, including a central globe composed of interconnected nodes forming the letters 'AI' (Artificial Intelligence). Surrounding the globe are intricate circular data visualizations, waveforms, and various abstract UI components, evoking a modern coding or data interface. The composition is ideal for a website hero section, with 'AI: Artificial Intelligence' text, navigation links (HOME, ABOUT, CONTACT, SIGN IN), and a 'Read more' button, all set against a high-tech, abstract backdrop.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark, futuristic tech background with subtle neon accents for AI coding interface hero section",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-photo/complex-binary-code-interface-with-modern-tech-design_198067-1179024.jpg",
+      "file_path": "/workspace/imgs/dark_futuristic_ai_coding_interface_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 91511,
+      "width": 626,
+      "height": 415,
+      "total_pixels": 259790,
+      "basic_score": 0.7795151629138701
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt. It features a dark, futuristic background with subtle neon blue/cyan accents, resembling an abstract AI coding or data interface. The depth of field adds a dynamic and modern feel, making it ideal for a hero section. Clarity is high, with intentional stylistic blurring that enhances the futuristic aesthetic. There are no watermarks.",
+      "file_name": "dark_futuristic_ai_coding_interface_background.jpg",
+      "caption": "A dark, futuristic technology background featuring abstract data patterns, glowing neon blue and cyan lines, and geometric grids, creating the impression of an artificial intelligence coding interface or digital network. The image has a shallow depth of field, with sharp elements in the foreground and a soft blur receding into the background, evoking a sense of depth and complexity in a digital realm.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A dark, futuristic tech background with subtle neon accents for AI coding interface hero section",
+    "image_info": {
+      "url": "https://img.freepik.com/premium-photo/visually-striking-modern-wallpaper-featuring-vibrant-lines-dots-that-illuminate-against-dark-background-holographic-interface-with-codes-running-data-processing-ai-generated_538213-20158.jpg",
+      "file_path": "/workspace/imgs/futuristic_ai_coding_tech_background_neon.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 57906,
+      "width": 626,
+      "height": 417,
+      "total_pixels": 261042,
+      "basic_score": 0.7751050967693576
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a dark, futuristic tech background with vibrant neon accents (blue and orange) and elements resembling an AI coding interface. The composition is strong with good depth of field, and there are no watermarks, making it highly suitable for a hero section.",
+      "file_name": "futuristic_ai_coding_tech_background_neon.jpg",
+      "caption": "A highly detailed, dark, and futuristic technology background, designed for an AI coding interface. It features intricate circuit board patterns, abstract code snippets, and flowing data streams, all illuminated by striking neon accents in vibrant electric blue and warm orange hues. A prominent hexagonal icon, suggesting a central processing unit or AI core, is visible, emphasizing artificial intelligence and machine learning concepts. The image utilizes a shallow depth of field, creating a dynamic visual with sharp details in the mid-ground and soft, glowing bokeh effects in the foreground and background, ideal for modern tech presentations, websites, or digital marketing materials.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean code editor interface with dark theme for demo section",
+    "image_info": {
+      "url": "https://verpex.com/assets/uploads/images/blog/Dark-Synthwave-84-theme.webp?v=1681111856",
+      "file_path": "/workspace/imgs/vscode_dark_theme_javascript_code_editor_screenshot.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 32218,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9329567373865324
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 82.0,
+      "explanation": "The image is highly relevant to the search query, clearly depicting a Visual Studio Code interface with a dark theme and functional code. The clarity is good, making the code readable, and there are no external watermarks. While the main code area is clean, the active extension sidebar with a hover popup on the left slightly impacts its pristine 'cleanliness' for an ideal demo, but it remains a strong candidate.",
+      "file_name": "vscode_dark_theme_javascript_code_editor_screenshot.jpg",
+      "caption": "A full-screen screenshot of the Visual Studio Code integrated development environment (IDE) displaying JavaScript code in a dark theme. The editor shows a file named 'index.js' containing functions such as 'calculate', 'giveResult', 'erase', and 'dell'. The left sidebar highlights the Extensions view, with a popup showing details for the 'Dark SynthWave' theme by Aaron Young. The top bar indicates the file path and application name 'index.js - calculator - Visual Studio Code'.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean code editor interface with dark theme for demo section",
+    "image_info": {
+      "url": "https://entail.jit.io/en-assets/jit/fit-in/680x522/649a81659a17e113b6edab96_Lk8mb33RIOosluyh8I9o7WaQqGCR_4ptwQ9DNEiy7m9bqvC2aJq9Y0hXSGwXTBp_KUsgQCZzWWTurqay0KuDCyar_O_LGCLvJUE8hyLhzW8XegPpUIL2KIW5LjU6IZ9KRUtctUXFcWkBCIMx1gsAw-1694627941478.png",
+      "file_path": "/workspace/imgs/react_js_dark_theme_code_editor_snippet.jpg",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 74051,
+      "width": 680,
+      "height": 521,
+      "total_pixels": 354280,
+      "basic_score": 0.8000009933596722
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant as it displays a clean code editor with a dark theme, perfectly suited for a demo section as requested by the prompt. The code (React JavaScript) is clearly legible, and the overall composition is professional. While it is a code editor with a dark theme, it doesn't show the full VS Code interface elements (like sidebars, status bar, etc.), which slightly reduces its relevance to the specific 'VS Code interface screenshot' part of the search query, but it still fits the general 'code editor' and 'dark theme' aspects very well.",
+      "file_name": "react_js_dark_theme_code_editor_snippet.jpg",
+      "caption": "A clean screenshot of a dark-themed code editor displaying React JavaScript code for a simple counter component. The code shows an `App` class component with state (`count`), a `handleClick` method to update the state, and a `render` method with JSX for a heading displaying the count and a button to trigger the state change. The interface is minimal, focusing solely on the code, ideal for presentations or tutorials.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean code editor interface with dark theme for demo section",
+    "image_info": {
+      "url": "https://code.visualstudio.com/assets/docs/configure/themes/themes_hero.gif",
+      "file_path": "/workspace/imgs/vscode_dark_theme_code_editor_interface.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 2048891,
+      "width": 1465,
+      "height": 783,
+      "total_pixels": 1147095,
+      "basic_score": 0.8399007324201189
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant, depicting the Visual Studio Code interface with a dark theme selected, directly addressing the search query. It shows a code editor environment, and the theme selection menu clearly highlights the 'Dark+ Default Dark+' theme. The clarity is good for a GIF, with readable text. There are no watermarks. While a menu overlay is present, the underlying code editor interface is clean and suitable for a demo.",
+      "file_name": "vscode_dark_theme_code_editor_interface.gif",
+      "caption": "A screenshot of the Visual Studio Code (VS Code) integrated development environment, showcasing the selection of the 'Dark+ Default Dark+' color theme from a dropdown menu. The main editor window displays TypeScript code from a file named 'nls.ts', featuring an `export interface INLSPluginConfigAvailableLanguages` definition. The dark theme provides a professional and eye-friendly coding environment, ideal for developers.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean code editor interface with dark theme for demo section",
+    "image_info": {
+      "url": "https://www.freecodecamp.org/news/content/images/2021/09/Screen-Shot-2021-09-16-at-12.43.07-PM.png",
+      "file_path": "/workspace/imgs/vs_code_dark_theme_editor_interface_screenshot.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 195121,
+      "width": 1347,
+      "height": 945,
+      "total_pixels": 1272915,
+      "basic_score": 0.9153960275417514
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is an excellent match for the search query and prompt. It clearly depicts a VS Code interface with a dark theme, showcasing a clean code editor, file explorer, and terminal. The text and UI elements are sharp and highly legible, making it ideal for a demo section. There are no watermarks.",
+      "file_name": "vs_code_dark_theme_editor_interface_screenshot.jpg",
+      "caption": "A clean, full-screen screenshot of a Visual Studio Code (VS Code) interface with a dark theme. The editor displays TypeScript/React code, featuring JSX elements and import statements. The left sidebar shows the file explorer with project files and folders, including 'client', 'client-only-routes', and 'components'. A terminal window at the bottom displays Git commands and logs, indicating recent dependency updates. The status bar at the very bottom shows language details (TypeScript React 4.4.2), line numbers, and formatting tools (ESLint, Prettier).",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Clean code editor interface with dark theme for demo section",
+    "image_info": {
+      "url": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/09/Screen-Shot-2021-09-16-at-12.52.26-PM.png",
+      "file_path": "/workspace/imgs/vs_code_dark_theme_code_editor_interface_screenshot.jpg",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 173494,
+      "width": 1233,
+      "height": 831,
+      "total_pixels": 1024623,
+      "basic_score": 0.9314414842928742
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query, showing a clean VS Code interface with a dark theme, making it ideal for a demo section. Clarity is excellent, with all text being crisp and fully legible. There are no watermarks or intrusive logos. The overall composition is professional and well-presented, showcasing a typical development environment.",
+      "file_name": "vs_code_dark_theme_code_editor_interface_screenshot.jpg",
+      "caption": "A high-resolution screenshot of the Visual Studio Code (VS Code) integrated development environment (IDE) featuring a dark theme. The interface displays a file explorer on the left pane, showing a 'fcc0 (Workspace)' project structure with folders like 'analytics', 'assets', 'client', and 'components'. The main editor area has three tabs open: 'add-a-negative-margin-to-an-element.md' displaying challenge instructions, 'Donation.css' showing CSS code for donation elements, and 'show-user.tsx'. A terminal window is visible at the bottom, displaying Git status and command-line output. The code and interface are clean, well-organized, and professionally presented.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]

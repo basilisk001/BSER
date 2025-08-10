@@ -1,0 +1,27 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "Analyser les exigences pour l'application BasiliskAI",
+        "details": "Définir les fonctionnalités clés : IDE intégré, édition de code en temps réel, interface utilisateur intuitive, démonstration des capacités IA",
+        "status": "completed",
+        "priority": "high"
+      },
+      "2": {
+        "id": "2",
+        "content": "Développer l'application web BasiliskAI fullstack",
+        "details": "Créer une interface moderne avec éditeur de code intégré, fonctionnalités d'IA simulées, collaboration en temps réel, présentation des fonctionnalités clés",
+        "status": "completed",
+        "priority": "high"
+      },
+      "3": {
+        "id": "3",
+        "content": "Déployer l'application BasiliskAI",
+        "details": "Déploiement de l'application avec URL accessible publiquement",
+        "status": "completed",
+        "priority": "medium"
+      }
+    }
+  }
+}
